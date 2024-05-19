@@ -10,8 +10,8 @@
  * 
  * TODO Still need to read more on javafx
 */
-package SkateboardDesigner;
 
+package com.skateboarddesigner;
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.geometry.Insets;
